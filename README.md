@@ -11,12 +11,12 @@ This package provides a comprehensive collection of contract ABIs and deployment
 
 ## Installation
 
-### Clone the repository
+### Option 1: Clone the repository
 ```bash
 git clone https://github.com/bandohq/contract-abis.git
 ```
 
-### Install with NPM
+### Option 2: Install with NPM
 ```bash
 npm install @bandohq/contract-abis
 ```
