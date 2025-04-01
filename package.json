@@ -1,6 +1,6 @@
 {
   "name": "@bandohq/contract-abis",
-  "version": "1.2",
+  "version": "1.2.0",
   "description": "Auto-Generated ABIs and contract metadata for the EVM",
   "main": "index.js",
   "scripts": {
